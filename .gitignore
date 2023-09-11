@@ -1,3 +1,4 @@
 contract/node_modules
 contract/ethereum/build
-.env
+config.env
+contract/crowdcoin/node_modules
